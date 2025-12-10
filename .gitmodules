@@ -1,0 +1,3 @@
+[submodule "apriltag_viz"]
+    path = apriltag_viz
+    url = https://github.com/saltluu/apriltag_viz.git
